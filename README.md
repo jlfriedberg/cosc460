@@ -1,1 +1,1 @@
-This repo holds my cosc460 work.
+This repo holds my cosc460 work
